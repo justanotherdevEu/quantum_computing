@@ -1,0 +1,80 @@
+Pasos a seguir:
+Redactar el estado del arte, recopilar de internet, donde estamos y adónde vamos ( criptografía punto de corte curva recta el país semanal, Quantum explained with a deck of cards, MIT Venture Capital en YouTube, etc…..) la criptografía moderna, criptografía en Blockchain, cómo actúa la IA para criptografía, ….
+TENDENCIAS    buscar blockchain, quantum computing, criptografía…..  con fuentes
+Recopilar documentos de cifrado, relacionar todo, DÓNDE ESTAMOS, A DONDE VAMOS
+
+
+
+
+
+Preguntas que intentaré responder:
+
+¿cómo y por qué evolucionó la criptografía clásica con sustitución o transposición a los modernos?
+¿cómo influyó los ordenadores?
+
+¿qué riesgos y oportunidades trajeron el ordenador en la seguridad de las comunicaciones y almacenado
+de información?
+Ideas:   ver artículos cifrados cuánticos, grado implantación EEUU, EU, China, etc...
+viabilidad, estado del arte, antecedentes, donde estamos hoy en comunicaciones cuánticas,
+radar y routers cuánticos?    routers cuánticos --> Tecnobit y Oesía
+QUBIT:   hablar brevemente el tercer estado
+
+
+
+
+
+
+
+
+
+
+
+
+TFG   tutoría   19-3-2024    
+comunicaciones cuánticas:   no hablar de wifi
+
+
+SSL se cifra con una variable de integridad, almacenada en local, suele requerir obtenerla
+con Wireshark, se puede ver cifrado SSL, 
+
+
+IPSEC es un protocolo, un framework, va integrando , Diffie Hellman intercambian claves, ESP y AH son para cifrar cabeceras o paquete, o ambos si usas ambos. ESP es datos, AH la cabecera. Para confidencialidad es DES, 3DES, ....      primero cifra cabecera y datos, luego con confidencialidad esos cifrados esa fila. la fila confidencialidad es la que REALMENTE cifra, 
+no todas las filas se usan siempre. La integridad se puede aplicar tanto antes como después de cifrar
+
+firma o huella digital, para el proceso de firma (un PDF por ejemplo). las funciones hash, calculan un digest del archivo en cuestión. 
+
+cifrados de WhatsApp, cifrados de tipo AES. Son de extremo a extremo.
+
+las llamadas en 2G no van cifradas, 4G sí. LTS es low term ....
+
+https://hackwise.mx/este-ataque-permite-a-los-hackers-descifrar-llamadas-4g-para-espiar-conversaciones/ 
+
+el protocolo TLS es un intercambio de llaves públicas, con SSL si consigues la llave pública
+almacenada en local, lo rompes. Transport layer security, ( TLS ) y SSL son lo mismo.
+
+navegar por internet:  si no es por claves, hay certificados.  
+
+
+
+
+
+
+
+
+ver por mi cuenta:
+
+https://youtu.be/OABUuXQcnJQ?list=PLOPFAg4mOJ10rS1Sg9AWA6YA9A54v7XKK
+
+https://www.youtube.com/watch?v=bfYH7JmHQnk
+
+https://www.youtube.com/watch?v=7R7dnT2043M
+
+https://www.youtube.com/watch?v=DYSsl7WoAqI
+
+https://ether-wind.narod.ru/Kelvin_1901/007.html
+
+https://www.youtube.com/watch?v=xM_kIvOK4f4
+
+https://youtu.be/ilPfvMEOmCs
+
+
